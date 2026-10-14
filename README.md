@@ -45,7 +45,7 @@ weather-app/
 
 ## Screenshot
 
-![Weather App](images/screenshot.png)
+![Weather App](images/demo.png)
 
 ## Author
 
